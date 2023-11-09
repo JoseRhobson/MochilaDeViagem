@@ -1,2 +1,1 @@
-# MochilaDeViagem
-projeto utilizando javaScript e integrando ao localStorage
+# alura-armazenando-na-web
